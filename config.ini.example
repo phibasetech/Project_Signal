@@ -1,0 +1,21 @@
+; This is an example configuration file.
+; Copy this to "config.ini" and add your own API keys.
+; "config.ini" is in .gitignore and will NOT be uploaded.
+
+[API_KEYS]
+YOUTUBE_API_KEY = "Your_Key_Here"
+TWITTER_API_KEY_SECRET = "Your_Key_Here"
+ETHERSCAN_API_KEY = "Your_Key_Here"
+SEC_API_KEY = "Your_Key_Here (user@domain.com)"
+
+[CONTEXT]
+; Define your 'Key Actors' or 'Topics' to follow
+; (From Whitepaper Scenario 3)
+WATCH_WALLETS = 0x..., 0x...
+WATCH_DAOS = 
+WATCH_LINKEDIN_PROFILES = 
+WATCH_YOUTUBE_CHANNELS = 
+
+[SETTINGS]
+; Scan interval in minutes
+SCAN_INTERVAL_MINUTES = 60

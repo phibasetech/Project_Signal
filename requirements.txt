@@ -1,0 +1,6 @@
+requests
+nltk
+web3.py
+beautifulsoup4
+feedparser
+configparser
