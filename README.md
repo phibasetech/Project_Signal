@@ -1,7 +1,7 @@
 # Project "Signal" (V1.0 Prototype)
 
 [![Status](https://img.shields.io/badge/Status-Alpha%20Prototype-orange.svg)](https://github.com/your-username/Project-Signal)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 > "Finding the Signal in the Noise: An AI-Powered, Open-Source Solution to the ‘Information Overload’ Crisis"
 
