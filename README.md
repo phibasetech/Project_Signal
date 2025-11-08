@@ -51,4 +51,4 @@ This is a **non-functional prototype** designed to showcase the project's archit
 ## 🤝 How to Contribute
 This project is being built as a public good. We are actively seeking community support and funding.
 
-**You can support our open-source development on Giveth.io: [Your Giveth Project Link Here]**
+**You can support our open-source development on Giveth.io: [https://giveth.io/project/project-signal-the-ai-powered-socialfi-dapp]**
