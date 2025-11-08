@@ -7,7 +7,7 @@
 
 This repository contains the official open-source prototype for **Project Signal**, a free, AI-powered dApp designed to filter the chaos of the digital world and deliver personalized, actionable insights.
 
-This project is based on the [Project Signal Whitepaper](https://phibase.com/docs/project_signal_whitepaper%20(082025).pdf)).
+This project is based on the [Project Signal Whitepaper](https://phibase.com/docs/project_signal_whitepaper%20(082025).pdf).
 
 ## The Problem: Information Overload
 We are drowning in a high-velocity, low-quality firehose of data. AI-generated "noise" has buried the remaining "signal," making it impossible to find wisdom.
